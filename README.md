@@ -1,2 +1,2 @@
 # ICSGBD
-# comandos de apoio para Instlação e Configuração de SGBD
+## Apoio para Instalação e Configuração de SGBD
