@@ -1,3 +1,9 @@
+#!/usr/bin/env bash
+#
+# Author : Duarte Pinto
+# Date: November 2022
+# Version 1.0.0: "Install Portainer"
+#
 docker volume create portainer_data
 docker run -d \
 -p 8000:8000 \
