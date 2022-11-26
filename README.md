@@ -1,4 +1,4 @@
 # ICSGBD
 ## Apoio para Instalação e Configuração de SGBD
-- Instlação do Docker
-- Instlação do Portainer
+- Instalação do Docker
+- Instalação do Portainer
