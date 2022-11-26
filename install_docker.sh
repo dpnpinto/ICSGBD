@@ -1,3 +1,9 @@
+#!/usr/bin/env bash
+#
+# Author : Duarte Pinto
+# Date: November 2022
+# Version 1.0.0: "Install Docker"
+#
 sudo dnf check-update
 sudo dnf config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 sudo dnf install docker-ce docker-ce-cli containerd.io
