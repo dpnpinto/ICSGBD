@@ -19,3 +19,9 @@
 ### DCL: definindo permissões aos objetos da base de dados (Data Control)
 -
 -
+### DTL: definindo permissões aos objetos da base de dados (Data Transact)
+-
+-
+### DQL: definindo permissões aos objetos da base de dados (Data Query)
+-
+-
