@@ -11,7 +11,7 @@
 -
 #### Delete: excluindo registros de uma tabela
 -
-#### Select: retomando registos de uma tabela
+#### Select: devolvendo registos de uma tabela
 -
 ### DDL: criando, alterando e excluindo tabelas de registros
 -
