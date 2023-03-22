@@ -1,3 +1,5 @@
+CREATE DATABASE DB_Escola;
+
 CREATE TABLE T_Alunos (
     id_aluno INTEGER PRIMARY KEY,
     nome TEXT NOT NULL,
